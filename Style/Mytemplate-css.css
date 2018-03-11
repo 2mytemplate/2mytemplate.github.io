@@ -1,0 +1,292 @@
+@charset "UTF-8";
+
+* {
+	outline: 0!important;
+	margin: 0;
+	padding: 0;
+}
+
+
+html, body {
+	width: 100%;
+	height: 100%;
+	color: #fff;
+	font-family: apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+}
+
+.wrapper {
+	width: 100%;
+	min-height: 100%;
+	float: left;
+}
+
+.not-footer {
+	width: 100%;
+	min-height: 100%;
+}
+
+/*header*/
+
+.headerMain {
+	width: 100%
+	z-index:0;
+}
+
+header {
+	border-bottom: 1px solid silver;
+	display: block;
+	max-height: 75px;
+	background-color: #fff;
+	position: fixed;
+	z-index: 9999;
+	width: 100%;
+}
+
+.emblem {
+	color: #000;
+	margin-left: 22.5%;
+	margin-top: 1%;
+	margin-bottom: 1.5%;
+	font-size: 2em;
+	font-family: 'Lato', sans-serif;
+}
+
+/*content*/
+
+.content {
+	width: 100%;
+	min-height: 100%;
+	margin: 0 auto;
+}
+
+/*block 1*/
+
+.block1 {
+	width: 100%;
+	height: 84vh;
+	background-color: #3f4049;
+	padding-top: 8%;
+}
+
+.landing_page {
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	font-size: 3em;
+	color: #fff;
+	/* border: 1px solid #fff; */
+	text-align: center;
+	float: left;
+	padding-bottom: 2%;
+}
+
+.batton-landing_page {
+	border: 1px solid #fff;
+	font-size: 1.5em;
+	color: #fff;
+	float: left;
+	margin-bottom: 5%;
+	margin-left: 45%;
+    border-radius: 100px;
+	padding: 0.5% 1.5%;
+	transition: all 0.4s ease;
+}
+
+.batton-landing_page:hover {
+	border-color: #fc5f45;
+	background-color: #fc5f45;
+	transition: all 0.4s ease;
+}
+
+.advantages {
+	float: left;
+	width: 60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	min-height: 100px;
+}
+
+.advantages-blocks {
+	text-align: center;
+	width: 30%;
+	min-height: 90px;
+	float: left;
+	margin-left: 2%;
+}
+
+.pluses {
+	width: 100%;
+	margin-top: 10%;
+	font-size: 1.2em;
+}
+
+/*block 2*/
+
+.block2 {
+	width: 100%;
+	height: 76vh;
+	background-color: #fff; 
+	padding-top: 12%;
+}
+
+.About-me {
+	min-height: 300px;
+	width: 35%;
+	margin-left: 29.5%;
+	margin-right: 29.5%;
+	color: #000;
+	font-size: 1.2em;
+	text-align: left;
+	padding: 3%;
+	background: rgba(233, 233, 233, 0.14);
+	box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.5);
+}
+
+.About-me-block {
+	display: block;
+	font-size: 2.5em;
+	margin-bottom: 2%;
+}
+
+/*block 3*/
+
+.block3 {
+	width: 100%;
+	height: 84vh;
+	background-color: #f7f7f7; 
+	padding-top: 8%;
+}	
+
+.tariff-block {
+	float: left;
+	width: 65%;
+	margin-left: 17.5%;
+	margin-right: 17,5%;
+	min-height: 200px;
+	margin-top: 2%;
+}
+
+.block-tariff {
+	float: left;
+	width: 30%;
+	min-height: 150px;
+	margin-left: 2%;
+	box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.24);
+}
+
+.name-tariff {
+	display: block;
+	text-align: center;
+	font-size: 2.5em;
+}
+
+.contents-of-the-tariff {
+	display: block;
+	padding: 4% 0%;
+	font-size: 1.2em;
+	text-align: center;
+}
+
+.batton-a:hover {
+	text-decoration: none;
+	transition: all 0.4s ease;
+}	
+
+.contents-of-the-tariff-batton {
+	display: block;
+	padding: 4% 0%;
+	font-size: 1.3em;
+	text-align: center;
+	transition: all 0.4s ease;
+}
+
+.contents-of-the-tariff-batton:hover {
+	text-decoration: none;
+	transition: all 0.4s ease;
+}
+
+/*block 4*/
+
+.block4 {
+	width: 100%;
+	height: 84vh;
+	background-color: #3f4049; 
+	padding-top: 8%;
+}
+
+.Conditions-block {
+	float: left;
+	width: 60%;
+	min-height: 10px;
+	/* border: 1px solid #fff; */
+	margin-left: 18%;
+	margin-right: 18%;
+	padding: 4%;
+	color: #fff;
+	font-size: 1.2em;
+}
+
+/*block6*/
+
+.block6 {
+	width: 100%;
+	min-height: 300px;
+	background-color: #f7f7f7; 
+	padding-top: 8%;
+	padding-bottom: 8%;
+}
+
+.vote {
+	border: 1px solid #000;
+	font-size: 1.5em;
+	color: #000;
+	float: left;
+	margin-bottom: 5%;
+	margin-left: 43%;
+    border-radius: 100px;
+	padding: 0.5% 1.5%;
+	transition: all 0.4s ease;
+}
+
+.vote:hover {
+	color: #fff;
+	border-color: #fc5f45;
+	background-color: #fc5f45;
+	transition: all 0.4s ease;
+}
+
+
+/*footer*/
+
+footer {
+	float: left;
+	width: 100%;
+	background-color: #fff;
+	color: #000;
+	height: 75px;
+	text-align: center;
+}
+
+.copy {
+	margin-top: 0.5%;
+}
+
+/*Up arrow*/
+
+.top_button {
+	position: fixed;
+	bottom: 2%;
+	right: 3.5%;
+	border-radius: 10%;
+	z-index: 100;
+	opacity: 0.7;
+	display: none;
+	transition: all 0.6s ease;
+	padding: 0.5%;
+	background-color: #fff;
+}
+
+.top_button:hover {
+	opacity: 1;
+	transition: all 0.4s ease;
+}

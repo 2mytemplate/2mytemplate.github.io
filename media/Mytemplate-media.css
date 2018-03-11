@@ -1,0 +1,662 @@
+@media only screen and (max-width: 1920px) {
+	
+}
+
+@media only screen and (max-width: 1280px) {
+	
+}
+
+@media only screen and (max-width: 1024px) {
+	.batton-landing_page {
+		margin-left: 43.5%;
+	}
+	
+	.vote {
+		margin-left: 41%;
+	}
+	
+	.block1 {
+		height: 360px;
+		padding-top: 8%;
+	}
+	
+	.block3 {
+		height: 420px;
+	}
+	
+	.block4 {
+		height: 500px;
+	}
+	
+	.block6 {
+		width: 100%;
+		min-height: 250px;
+		background-color: #f7f7f7;
+		padding-top: 8%;
+		padding-bottom: 8%;
+	}
+	
+}
+
+@media only screen and (max-width: 960px) {
+	.landing_page {
+		font-size: 2.6em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 43.5%;
+	}
+	
+	.vote {
+		margin-left: 40%;
+	}
+	
+	.block1 {
+		height: 415px;
+		padding-top: 8%;
+	}
+	
+	.About-me {
+		width: 50%;
+		margin-left: 22%;
+		margin-right: 22%;
+	}
+	
+	.block3 {
+		height: 420px;
+	}
+	
+	.tariff-block {
+		width: 75%;
+		margin-left: 12.5%;
+		margin-right: 12,5%;
+	}
+	
+	.block4 {
+		height: 500px;
+	}
+	
+	.block6 {
+		width: 100%;
+		min-height: 250px;
+		background-color: #f7f7f7;
+		padding-top: 8%;
+		padding-bottom: 8%;
+	}
+	
+}
+
+@media only screen and (max-width: 736px) {
+	.emblem {
+		margin-left: 32%;
+		font-size: 1.5em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 42%;
+	}
+	
+	.vote {
+		margin-left: 37%;
+	}
+	
+	.landing_page {
+		font-size: 2em;
+	}
+
+	.block1 {
+		height: 336px;
+	}
+	
+	.block2 {
+		width: 100%;
+		height: 320px;
+		background-color: #fff;
+		padding-top: 8%;
+	}
+	
+	.About-me {
+		min-height: 30px;
+		width: 60%;
+		margin-left: 20%;
+		margin-right: 20%;
+	}
+	
+	.block3 {
+		width: 100%;
+		height: 1160px;
+		background-color: #f7f7f7;
+		padding-top: 8%;
+	}
+	
+	.block-tariff {
+		width: 100%;
+		margin-left: 0%;
+		margin-bottom: 10%;
+	}
+	
+	.block4 {
+		height: 516px;
+	}
+	
+	.block6 {
+		min-height: 220px;
+	}
+}
+
+@media only screen and (max-width: 667px) {
+	.landing_page {
+		font-size: 1.8em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 41%;
+	}
+	
+	.block2 {
+		height: 370px;
+	}
+	
+	.block3 {
+		height: 1140px;
+	}
+	
+	.block4 {
+		height: 540px;
+	}
+	
+	.vote {
+		margin-left: 36%;
+	}
+}
+
+@media only screen and (max-width: 640px) {
+	.landing_page {
+		font-size: 1.7em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 40.5%;
+	}
+	
+	.block2 {
+		height: 360px;
+	}
+	
+	.block3 {
+		height: 1110px;
+	}
+	
+	.block4 {
+		height: 540px;
+	}
+	
+	.block6 {
+		min-height: 205px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+	.landing_page {
+		font-size: 1.6em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 40%;
+	}
+	
+	.advantages {
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	
+	.block1 {
+		height: 310px;
+	}
+	
+	.block2 {
+		height: 315px;
+	}
+	
+	.About-me {
+		width: 73%;
+		margin-left: 11.5%;
+		margin-right: 11.5%;
+	}
+
+	.block3 {
+		height: 1070px;
+	}
+	
+	.block4 {
+		height: 530px;
+	}
+	
+	.block6 {
+		min-height: 190px;
+	}
+	
+	.vote {
+		margin-left: 35%;
+	}
+}
+
+@media only screen and (max-width: 568px) {
+	.landing_page {
+		font-size: 1.5em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 40%;
+	}
+	
+	.block1 {
+		height: 310px;
+	}
+	
+	.advantages {
+		width: 70%;
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	
+	.About-me {
+		width: 73%;
+		margin-left: 11.5%;
+		margin-right: 11.5%;
+	}
+	
+	.block2 {
+		height: 360px;
+	}
+	
+	.block3 {
+		height: 1050px;
+	}
+	
+	.block4 {
+		height: 580px;
+	}
+	
+	.vote {
+		margin-left: 34%;
+	}
+}
+
+@media only screen and (max-width: 533px) {
+	.emblem {
+		margin-left: 27%;
+		font-size: 1.5em;
+	}
+	
+	.block1 {
+		height: 290px;
+	}
+	
+	.block3 {
+		height: 1000px;
+	}
+	
+	.block4 {
+		height: 600px;
+	}
+	
+	.block6 {
+		min-height: 185px;
+	}
+	
+	.landing_page {
+		font-size: 1.4em;
+	}
+}
+
+@media only screen and (max-width: 414px) {
+	.emblem {
+		margin-left: 22%;
+		font-size: 1.5em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 36%;
+		margin-top: 2%;
+		margin-bottom: 7%;
+	}
+	
+	.landing_page {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		font-size: 1.6em;
+	}
+	
+	.advantages {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+	}
+	
+	.block3 {
+		height: 900px;
+	}
+	
+	.block4 {
+		height: 670px;
+	}
+	
+	.vote {
+		margin-left: 28%;
+	}
+}
+
+@media only screen and (max-width: 412px) {
+		.emblem {
+		margin-left: 22%;
+		font-size: 1.5em;
+	}
+	
+	.landing_page {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		font-size: 1.6em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 37%;
+		margin-top: 2%;
+		margin-bottom: 7%;
+	}
+	
+	.advantages {
+		width: 98%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+	
+	.advantages-blocks {
+		margin-left: 3%;
+	}
+	
+	.About-me {
+		width: 94%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block2 {
+		height: 306px;
+	}
+	
+	.block3 {
+		height: 1060px;
+	}
+	
+	.tariff-block {
+		width: 100%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block4 {
+		height: 520px;
+	}
+	
+	.Conditions-block {
+		width: 92%;
+		margin-left: 0%;
+		margin-right: 0%;
+		padding: 4%;
+	}
+	
+	.vote {
+		margin-left: 28%;
+		margin-top: 3%;
+	}
+}
+
+@media only screen and (max-width: 384px) {
+		.emblem {
+		margin-left: 18%;
+		font-size: 1.5em;
+	}
+	
+	.landing_page {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		font-size: 1.5em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 37%;
+		margin-top: 2%;
+		margin-bottom: 7%;
+	}
+	
+	.advantages {
+		width: 98%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+	
+	.advantages-blocks {
+		margin-left: 3%;
+	}
+	
+	.About-me {
+		width: 94%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block2 {
+		height: 335px;
+	}
+	
+	.block3 {
+		height: 1020px;
+	}
+	
+	.tariff-block {
+		width: 100%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block4 {
+		height: 540px;
+	}
+	
+	.Conditions-block {
+		width: 92%;
+		margin-left: 0%;
+		margin-right: 0%;
+		padding: 4%;
+	}
+	
+	.vote {
+		margin-left: 27%;
+		margin-top: 3%;
+	}
+}
+
+@media only screen and (max-width: 375px) {
+	.emblem {
+		margin-left: 18%;
+		font-size: 1.5em;
+	}
+	
+	.landing_page {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		font-size: 1.5em;
+	}
+	
+	.advantages {
+		width: 98%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+	
+	.advantages-blocks {
+		margin-left: 3%;
+	}
+	
+	.About-me {
+		width: 94%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block2 {
+		height: 335px;
+	}
+	
+	.block3 {
+		height: 1020px;
+	}
+	
+	.tariff-block {
+		width: 100%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block4 {
+		height: 570px;
+	}
+	
+	.Conditions-block {
+		width: 92%;
+		margin-left: 0%;
+		margin-right: 0%;
+		padding: 4%;
+	}
+	
+	.vote {
+		margin-left: 27%;
+		margin-top: 3%;
+	}
+}
+
+@media only screen and (max-width: 360px) {
+	.emblem {
+		margin-left: 18%;
+		font-size: 1.5em;
+	}
+	
+	.landing_page {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		font-size: 1.5em;
+	}
+	
+	.advantages {
+		width: 98%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+	
+	.advantages-blocks {
+		margin-left: 3%;
+	}
+	
+	.About-me {
+		width: 94%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block2 {
+		height: 335px;
+	}
+	
+	.block3 {
+		height: 1020px;
+	}
+	
+	.tariff-block {
+		width: 100%;
+		margin-left: 0%;
+		margin-right: 0%;
+	}
+	
+	.block4 {
+		height: 570px;
+	}
+	
+	.Conditions-block {
+		width: 92%;
+		margin-left: 0%;
+		margin-right: 0%;
+		padding: 4%;
+	}
+	
+	.vote {
+		margin-left: 27%;
+		margin-top: 3%;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+	.emblem {
+		margin-left: 11%;
+		font-size: 1.5em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 32%;
+		margin-top: 2%;
+		margin-bottom: 7%;
+	}
+	
+	.landing_page {
+		width: 90%;
+		margin-left: 5%;
+		margin-right: 5%;
+		font-size: 1.3em;
+	}
+	
+	.block1 {
+		height: 265px;
+	}
+	
+	.advantages {
+		width: 98%;
+		margin-left: 1%;
+		margin-right: 1%;
+	}
+	
+	.pluses {
+		width: 100%;
+		margin-top: 10%;
+		font-size: 1em;
+	}
+	
+	.batton-landing_page {
+		margin-left: 34%;
+		margin-top: 2%;
+		margin-bottom: 7%;
+	}
+	
+	.block2 {
+		height: 350px;
+		padding-top: 0%;
+	}
+	
+	.block3 {
+		height: 945px;
+	}
+	
+	.block4 {
+		height: 605px;
+	}
+	
+	.vote {
+		margin-left: 22%;
+		margin-top: 3%;
+	}
+}
